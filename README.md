@@ -16,7 +16,7 @@ Los numerales romanos son:
              D: 500
              M: 1000
              
- Y se trata de un sistema aditivo/sustractivo por lo que un numeral de menor denominación a la izquierda significa que se resta ese valor y a la derecha significa que se suma. Cada numeral no puede aparecer más de 3 veces en el número.
+ Y se trata de un sistema aditivo/sustractivo por lo que un numeral de menor denominación a la izquierda significa que se resta ese valor y a la derecha significa que se suma. Cada numeral no puede aparecer más de 3 veces seguidas en el número.
 
 ## Instrucciones
 
